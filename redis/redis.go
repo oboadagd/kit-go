@@ -2,7 +2,7 @@ package redis
 
 import (
 	"context"
-	"github.com/go-redis/redis/v8"
+	"github.com/go-redis/redis/v9"
 	log "github.com/sirupsen/logrus"
 	"sync"
 	"time"

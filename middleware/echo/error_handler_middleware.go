@@ -1,10 +1,11 @@
 package middleware
 
 import (
-	"github.com/labstack/echo/v4"
-	"github.com/laironacosta/kit-go/middleware/responses"
-	"github.com/pkg/errors"
 	"net/http"
+
+	"github.com/labstack/echo/v4"
+	"github.com/oboadagd/kit-go/middleware/responses"
+	"github.com/pkg/errors"
 )
 
 type (

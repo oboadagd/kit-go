@@ -10,7 +10,7 @@ services:
       context: .
       dockerfile: ./Dockerfile.test
     volumes:
-      - $PWD:/go/src/github.com/laironacosta/kit-go
+      - $PWD:/go/src/github.com/oboadagd/kit-go
     depends_on:
       - db-test
     networks:

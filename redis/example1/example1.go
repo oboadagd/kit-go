@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"github.com/go-redis/redis/v8"
-	redisKit "github.com/laironacosta/kit-go/redis"
+	"github.com/go-redis/redis/v9"
+	redisKit "github.com/oboadagd/kit-go/redis"
 	log "github.com/sirupsen/logrus"
 	"time"
 )

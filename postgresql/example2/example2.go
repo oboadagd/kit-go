@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/go-pg/pg/v10"
 	"github.com/go-pg/pg/v10/orm"
-	pgKit "github.com/laironacosta/kit-go/postgresql"
+	pgKit "github.com/oboadagd/kit-go/postgresql"
 	log "github.com/sirupsen/logrus"
 )
 
